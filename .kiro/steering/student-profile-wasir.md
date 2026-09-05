@@ -15,15 +15,22 @@ directory.
 - **School:** University of the People (UoPeople)
 - **Term 1 start date:** June 18
 - **Term structure:** Every term consists of 9 units; each unit is 1 week long.
-- **Current progress:** Term 1 is COMPLETED (all 9 units finished). Final grades are
-  pending and will be added once available. Term 2 has not yet started.
+- **Current progress:** Term 1 is COMPLETE with final grades posted (see table below).
+  Term 2 (AY2027-T1) is now in progress — Unit 1 is currently running.
 
-## Term 1 Courses (AY2026-T5) — COMPLETED
+## Term 1 Courses (AY2026-T5) — COMPLETED, grades posted
 
-| Course | Instructor | Final Grade |
-|---|---|---|
-| CS 1111-01 — Introduction to Computer Science (AY2026-T5) | Mohamadou Bassirou Jean-Baptiste Sanfo | Pending |
-| UNIV 1002-01 — Online Education Strategies for Non-Native English Speakers (AY2026-T5) | Mustapha Kammouss | Pending |
+| Course | Course Code | Instructor | Credits | Grade |
+|---|---|---|---|---|
+| Introduction to Computer Science (Elective) | CS 1111 | Mohamadou Bassirou Jean-Baptiste Sanfo | 3 | 98 / A+ |
+| Online Education Strategies for Non-Native English Speakers (Required) | UNIV 1002 | Mustapha Kammouss | 3 | 100 / A+ |
+
+## Term 2 Courses (AY2027-T1) — IN PROGRESS (Unit 1 running)
+
+| Course | Instructor |
+|---|---|
+| ENGL 1102-01 — English Composition 2 | Aparna Rajith (aparna.rajith@uopeople.edu) |
+| CS 1101-01 — Programming Fundamentals | Hussam Al Khouja (hussam.alkhouja@uopeople.edu) |
 
 ## Discussion Deadlines (applies to both courses unless a specific unit says otherwise)
 

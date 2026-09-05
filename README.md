@@ -36,13 +36,21 @@ Term_01/
 
 ## Term 1 Courses (AY2026-T5) — COMPLETED
 
-**Term 1 coursework is finished.** Final grades are pending and will be added once
-available.
+**Term 1 coursework is finished and final grades are posted.**
+
+| Course | Instructor | Credits | Grade |
+|---|---|---|---|
+| [CS 1111-01 — Introduction to Computer Science](<Term_01/CS 1111-01 Introduction to Computer Science - AY2026-T5>) | Mohamadou Bassirou Jean-Baptiste Sanfo | 3 | 98 / A+ |
+| [UNIV 1002-01 — Online Education Strategies for Non-Native English Speakers](<Term_01/UNIV 1002-01 Online Education Strategies for Non-Native English Speakers - AY2026-T5>) | Mustapha Kammouss | 3 | 100 / A+ |
+
+## Term 2 Courses (AY2027-T1) — IN PROGRESS
+
+**Term 2 is underway; Unit 1 is currently running.**
 
 | Course | Instructor |
 |---|---|
-| [CS 1111-01 — Introduction to Computer Science](<Term_01/CS 1111-01 Introduction to Computer Science - AY2026-T5>) | Mohamadou Bassirou Jean-Baptiste Sanfo |
-| [UNIV 1002-01 — Online Education Strategies for Non-Native English Speakers](<Term_01/UNIV 1002-01 Online Education Strategies for Non-Native English Speakers - AY2026-T5>) | Mustapha Kammouss |
+| ENGL 1102-01 — English Composition 2 | Aparna Rajith (aparna.rajith@uopeople.edu) |
+| CS 1101-01 — Programming Fundamentals | Hussam Al Khouja (hussam.alkhouja@uopeople.edu) |
 
 ## Discussion deadlines
 
