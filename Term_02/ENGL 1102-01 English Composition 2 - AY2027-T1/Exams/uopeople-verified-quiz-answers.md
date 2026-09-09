@@ -164,7 +164,15 @@ Descriptions: a. Determining the causes of behavior by identifying relationships
 
 ## Unit 1 — running notes
 
+**Unit 1 status: FINISHED.** All 15 questions given across self-quiz attempts (13 unique
+entries above, 2 seen twice each) have been confirmed by the user. Only one wrong answer was
+given across the whole unit — Q6 (functional relationship) — and it has been corrected above.
+
 - Self-quizzes for this course draw from a rotating pool — questions and option order vary
   between attempts (same underlying content, reworded/reordered). Collect every variant seen.
 - Q6 (functional relationship) is this unit's one confirmed trap: don't default to the
   stricter scientific-methodology definition of "functional relationship" for this course.
+
+## Unit 2
+
+*(Awaiting questions — user will provide once Unit 2 becomes available.)*
