@@ -108,6 +108,43 @@ tone, formatting, or citations come into play.
     institution's system treats as the official due date, not a timezone-shifted display of
     it. If it's ever unclear which date is authoritative, ask the student to confirm via the
     course portal or the instructor rather than guessing.
+  - **Confirmed standing rule for this student (Wasir):** the assignment instructions/portal
+    display the due date in his local timezone, which is one calendar day ahead of
+    UoPeople's own reference timezone. When building a title page, always use the displayed
+    due date **minus one day** as the actual due date to print (e.g., if the portal shows
+    "Due on Sep 17, 2026," the title page should say **September 16, 2026**). This was
+    confirmed directly by the student — don't re-derive it from the LMS's raw date text
+    without applying this offset.
+
+## 15. Workflow Efficiency and Sequencing — lessons from real sessions
+**Scope: universal for anything involving git/file operations and multi-turn revision.**
+
+- **Only build the actual `.docx` file once the text content is fully finalized and
+  approved, and only push to git as close to the very end of the session as possible.**
+  Confirmed as a real cost driver in this project: rebuilding the `.docx` multiple times
+  while the underlying text was still being revised wasted significant effort compared to
+  finalizing the markdown/plain-text draft completely first, then building and pushing the
+  file exactly once at the end.
+- **Whenever one household member's assignment is edited after the other's has already been
+  finalized (e.g., a late source swap, a wording fix), immediately re-run the full
+  cross-household n-gram overlap diff against the other student's current finalized text —
+  do not wait until both are "done again" to check.** This project saw new accidental phrase
+  overlaps get introduced between the two students' papers multiple times as a side effect
+  of edits made to only one of them after the other was already finalized.
+- **When trimming word count to fit a buffer, make the cut across two or three sentences in
+  a single edit pass, then immediately recheck the word count** — rather than making several
+  small sequential trims and rechecking after each one. Multiple small trims in this project
+  repeatedly failed to reach a real buffer (staying within a few words of the ceiling) and
+  required several extra rounds to fix.
+- **A source can be individually credible but still be the wrong choice for a specific
+  numbered slot in an assignment.** If an assignment asks for "N credible sources for a
+  literature review on [topic]," a methodology/how-to-evaluate-sources resource (e.g., a
+  Scribbr "how to spot credible sources" guide) does not count toward that number, even if
+  it is itself a legitimate, assigned-reading source. Cite it separately as a supporting
+  methodology reference (the same way a research-methods textbook like Serdikoff is used to
+  justify what makes a hypothesis testable) rather than occupying one of the N literature
+  slots. This was a real, repeated point-loss risk in this project — catch it before
+  presenting any "N credible sources" section as final, not only when asked to check.
 
 ## 2. Tone, Register, and AI-Pattern Avoidance — the single biggest point-loss risk
 **Scope: universal.**
@@ -221,6 +258,24 @@ it "final" or "ready," regardless of type.**
 
 ## 6. AI-Detection and Third-Party "Reviews"
 **Scope: universal.**
+
+- **When a student pastes a third-party/outside AI review or self-grade of a draft
+  (rubric-style scores, "Level 4 likely," a word-count claim, a percentage), do not repeat,
+  average, or weigh the score or word-count number at all — treat it as unverified noise by
+  default, not as a starting point.** Confirmed repeatedly in this project: multiple outside
+  reviews of the same saved document, sometimes in the same batch, reported different word
+  counts for the exact same file (e.g., 415, 531, 590, 605, 650, 690, 700, 717 for texts that
+  were actually 683–767 words depending on the exact revision), and multiple reviews gave
+  wildly different overall scores (85–89 vs. 100 vs. 89–92) for the same draft. This is not
+  an occasional glitch to spot-check for — assume every such number is wrong until verified
+  against the actual saved file, and never restate one as if it were a real measurement.
+- **Do still extract and evaluate the *substantive* claims from an outside review** — e.g.,
+  "source X doesn't actually measure what the draft says it measures," "these two sources
+  overlap in phrasing," "this citation is missing a URL." These are concrete, checkable
+  claims. Verify each one directly against the actual source/document before acting on it
+  (some turn out to be correct and worth fixing; some turn out to be wrong or already
+  addressed). The rule above is specifically about ignoring scores and word-count numbers,
+  not about ignoring every claim an outside review makes.
 
 - No one — not this assistant, not the student, not Turnitin itself — can reliably predict
   what an AI-detection tool will output. Treat any "GPTZero would probably say X%" or
