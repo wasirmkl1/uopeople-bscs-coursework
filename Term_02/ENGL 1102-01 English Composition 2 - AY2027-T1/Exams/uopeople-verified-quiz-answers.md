@@ -175,4 +175,61 @@ given across the whole unit — Q6 (functional relationship) — and it has been
 
 ## Unit 2
 
-*(Awaiting questions — user will provide once Unit 2 becomes available.)*
+**1. Which of the following is not a characteristics of a strong thesis statement?**
+- Use of vague language.
+- Specificity.
+- Ability to be argued.
+- Forcefulness.
+
+**Answer: Use of vague language.** — CONFIRMED CORRECT
+*Source: Readings, Hall & Wallace, Ch. 4.2 — Developing a Strong, Clear, Thesis Statement (a good thesis must be precise, forceful and confident — vague language is the opposite).*
+
+---
+
+**2. Jennifer is writing an essay on the impact of social media on teenagers. Her topic sentence is, "Social media has a profound effect on teenagers' mental health." Which of the following would be the best supporting sentence for her paragraph?**
+- Teenagers spend an average of four hours a day on social media.
+- Social media has created a space for teenagers to express their creativity.
+- Many teenagers use social media platforms like Instagram and TikTok daily.
+- The effects of social media on mental health are complex and widespread.
+
+**Answer: The effects of social media on mental health are complex and widespread.** — CONFIRMED CORRECT
+*Note: this is this unit's confirmed trap. The assistant's first-pass reasoning picked "Teenagers spend an average of four hours a day on social media," treating a concrete statistic as inherently the "best" supporting sentence — but that statistic is about usage/screen-time, not about the topic sentence's actual claim (mental-health effects). The correct choice restates/elaborates the topic sentence's own claim (complexity and breadth of the mental-health effects) rather than introducing a tangential usage stat. Don't default to "most concrete/statistical-sounding option" for supporting-sentence questions — check that the option is actually on-topic for the stated main idea first.*
+
+---
+
+**3. Match the terms with their correct definitions: Hypothesis / Scientific Law / Scientific Theory / Fact.**
+- 1-c, 2-a, 3-b, 4-d
+- 1-c, 2-b, 3-d, 4-a
+- 1-c, 2-d, 3-a, 4-b
+- 1-c, 2-d, 3-b, 4-a
+
+**Answer: 1-c, 2-d, 3-b, 4-a** — CONFIRMED CORRECT
+*Source: Readings, Serdikoff, Ch. 3, Section 14 — Developing a Hypothesis ("Facts, Hypotheses, Theories, and Laws" section). Hypothesis = testable/tentative prediction; Scientific Law = describes patterns, often as equations; Scientific Theory = well-supported explanation going beyond specific observations; Fact = basic statement established by observation/experiment, accepted as true for practical purposes.*
+
+---
+
+**4. What is the primary purpose of a topic sentence in a body paragraph?**
+- To present opposing viewpoints.
+- To state the main idea of the paragraph.
+- To introduce the conclusion of the essay.
+- To summarize the entire essay.
+
+**Answer: To state the main idea of the paragraph.** — CONFIRMED CORRECT
+*Source: Readings, Hall & Wallace, Ch. 3.1 — Effective Means for Writing a Paragraph ("the topic sentence... expresses the main idea of the paragraph").*
+
+---
+
+**5. Match the following types of evidence with their descriptions: Judgments / Testimony / Personal observation / Facts.**
+- 1-d, 2-a, 3-b, 4-c
+- 1-a, 2-c, 3-b, 4-d
+- 1-c, 2-b, 3-d, 4-a
+- 1-b, 2-d, 3-c, 4-a
+
+**Answer: 1-d, 2-a, 3-b, 4-c** — CONFIRMED CORRECT
+*Note: Judgments = conclusions drawn from facts; Testimony = information from direct/expert witnesses; Personal observation = personal insights based on experiences; Facts = verifiable information that cannot be disputed. This maps to the standard facts/judgments/testimony/personal-observation evidence-type framework (cf. Successful College Composition, persuasion chapter's facts-vs-opinions framing) rather than a verbatim quote from an assigned reading — flagged at answer time as lower-confidence sourcing, now confirmed correct.*
+
+---
+
+## Unit 2 — running notes
+
+- Q2 is this unit's confirmed trap: for "best supporting sentence" questions, the correct answer restates/elaborates the topic sentence's actual claim rather than being the most statistic-sounding or concrete-sounding option. Watch for supporting-sentence options that are concrete but off-topic (e.g., about usage/frequency when the topic sentence is about effects/impact).
