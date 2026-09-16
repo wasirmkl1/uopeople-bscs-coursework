@@ -26,3 +26,19 @@ Answers below are **confirmed by graded attempts**, not inferred, unless marked 
 
 - Basic Python fundamentals (data types, Boolean values, float vs int, assignment operators, type-conversion functions) — trust these directly if these exact questions/options reappear.
 - Key distinctions to remember: `True`/`False` (bare, unquoted) = Boolean; `"True"` (quoted) = string. `+=` is the compound assignment operator for add-and-assign. `str()` converts numeric types to string; `int()`/`float()`/`bool()` convert to their respective types.
+
+
+## Attempt 2 — Unit 2 quiz: Boolean logic & conditionals (5 q)
+
+| # | Question (topic) | Answer given | Result |
+|---|---|---|---|
+| 1 | Which expression evaluates to True | `5 > 10 or 4 > 2` | CONFIRMED CORRECT |
+| 2 | Output of `if x and y:` with x=5, y=0 | B | CONFIRMED CORRECT |
+| 3 | Best check for number NOT between 10 and 20 inclusive | `not (num >= 10 and num <= 20)` | CONFIRMED CORRECT |
+| 4 | Output of nested if/else with age=17 | Teenager | CONFIRMED CORRECT |
+| 5 | Output of nested if with num=45, modulo checks | Valid Number | CONFIRMED CORRECT |
+
+All 5/5 confirmed correct. Key reasoning:
+- Short-circuit evaluation: `and`/`or` return one of the actual operands, not always `True`/`False` (e.g., `7 and 0` → `0`).
+- `not (num >= 10 and num <= 20)` is the correct De Morgan's-style negation of an inclusive range check.
+- Nested `if` statements evaluate outer condition first, then inner condition, printing based on the deepest matching branch.
