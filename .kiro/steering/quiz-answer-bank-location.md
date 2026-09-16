@@ -69,3 +69,30 @@ This same discipline (re-derive from scratch, don't pattern-match) applies to ev
 type, not just circuits — boolean algebra simplifications, SDLC step ordering, and any other
 question with a precise, checkable derivation should be worked out step by step and the
 derivation shown, rather than answered from a confident-sounding recollection.
+
+
+
+## Efficiency rule — extract PDF text before reading, don't over-verify clean matches
+
+**Never read a `.pdf` reading file directly with a raw file-read tool.** Raw reads return
+the undecoded PDF byte stream (compressed binary), which is not usable text and tends to
+blow past output limits after burning a large number of tokens for zero signal. Before
+reading any assigned-reading PDF for source-checking, extract its text first (e.g. a short
+Python snippet using `pypdf`: install if missing, then `PdfReader(...).pages[i].extract_text()`
+joined across pages) and read/search that extracted text instead of the PDF file itself.
+
+**Don't multiply verification steps once a question is already resolved.** If the course's
+own `uopeople-verified-quiz-answers.md` file or the assigned Readings give an unambiguous,
+exact/near-exact match for a question, answer from that and stop — do not also run
+redundant web searches "just to be sure" for questions with no ambiguity. Reserve extra
+web verification (multiple searches, cross-checking several sources) for cases where:
+- the assigned readings are silent or unclear on the question, or
+- the question smells like a potential course-specific trap (absolute/unusual wording,
+  an option set that doesn't cleanly match the textbook's own phrasing, a question type
+  similar to a previously-logged trap in this file).
+
+Getting a generic question right isn't evidence the sourcing process was unnecessary — the
+bank-first → readings → web order exists specifically to catch the cases where this course's
+quiz key diverges from the standard/generic answer (see the Unit 1 Q6 functional-relationship
+trap as the concrete precedent). The point is to spend verification effort where divergence
+risk is real, not to verify every question to the same depth regardless of how clear-cut it is.
