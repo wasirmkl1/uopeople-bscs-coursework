@@ -53,3 +53,19 @@ Image reference: `q15.png` in this same folder. The circuit has three inputs (A,
 
 - 19/20 (95%) — every other topic (debugging, Boolean algebra, robotics actuators, abstraction, VR training, supervised learning, ASCII, virtualization, SDLC phases, database schema, optical storage, blockchain transparency, network topology, if-else, application software, distributed file systems, multitasking/multiprogramming) is now graded-confirmed correct and can be trusted directly if these exact questions/options reappear.
 - Only the image-based logic gate question (Q15-style) needs careful re-tracing each time rather than pattern-matching to a prior answer, since the specific wiring (which input branches where) varies between versions of this question.
+
+
+## Attempt 2 — Unit 2 quiz: Boolean logic & conditionals (5 q)
+
+| # | Question (topic) | Answer given | Result |
+|---|---|---|---|
+| 1 | Which expression evaluates to True | `5 > 10 or 4 > 2` | CONFIRMED CORRECT |
+| 2 | Output of `if x and y:` with x=5, y=0 | B | CONFIRMED CORRECT |
+| 3 | Best check for number NOT between 10 and 20 inclusive | `not (num >= 10 and num <= 20)` | CONFIRMED CORRECT |
+| 4 | Output of nested if/else with age=17 | Teenager | CONFIRMED CORRECT |
+| 5 | Output of nested if with num=45, modulo checks | Valid Number | CONFIRMED CORRECT |
+
+All 5/5 confirmed correct. Key reasoning:
+- Short-circuit evaluation: `and`/`or` return one of the actual operands, not always `True`/`False` (e.g., `7 and 0` → `0`).
+- `not (num >= 10 and num <= 20)` is the correct De Morgan's-style negation of an inclusive range check.
+- Nested `if` statements evaluate outer condition first, then inner condition, printing based on the deepest matching branch.
