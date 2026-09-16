@@ -230,6 +230,103 @@ given across the whole unit — Q6 (functional relationship) — and it has been
 
 ---
 
+**6. Which rhetorical mode in research writing primarily aims to persuade the audience by presenting a well-reasoned case supported by evidence?**
+- Expository Mode.
+- Argumentative Mode.
+- Persuasive Mode.
+- Descriptive mode.
+
+**Answer: Argumentative Mode.** — CONFIRMED CORRECT
+*Source: Readings, Mallika, "Rhetorical Modes in Writing" (Unit 2 PDF): "The argumentative mode aims to persuade the audience by presenting a well-reasoned case supported by evidence." Persuasive Mode, per the same reading, relies more on emotional/ethical appeal (pathos/ethos) rather than primarily evidence-based reasoning.*
+
+---
+
+**7. Which of the following is a characteristic of an achievable SMART goal?**
+- The goal is too easy to complete.
+- The goal stretches your abilities but is possible to achieve.
+- The goal has no defined start or end date.
+- The goal is unrealistic and cannot be completed.
+
+**Answer: The goal stretches your abilities but is possible to achieve.** — CONFIRMED CORRECT
+*Source: Readings, CFI Team, "SMART Goals" (assigned Unit 2 reading) — "Achievable" means realistic/attainable while still being a meaningful stretch.*
+
+---
+
+**8. Which of the following is a transitional word that indicates sequence or order?** *(seen twice this unit, same answer both times — see also Q4 below)*
+- Moreover / Thus / Therefore / First *(option order varies between attempts)*
+
+**Answer: First.** — CONFIRMED CORRECT (x2, seen twice across sets)
+*General composition knowledge — sequence/order transitions include "first," "second," "next," "finally"; "Moreover" (addition), "Thus"/"Therefore" (cause-effect/conclusion) are not sequence transitions. Cross-checked against Purdue OWL's transitional devices list.*
+
+---
+
+**9. Why is it advised to avoid using disclaimers or apologies in a conclusion?**
+- It makes the essay longer than necessary.
+- It makes the essay appear incomplete.
+- It introduces a new perspective too late in the essay.
+- It gives the impression that the writer lacks conviction in their argument.
+
+**Answer: It gives the impression that the writer lacks conviction in their argument.** — CONFIRMED CORRECT
+*Source: Readings, Hall & Wallace, Ch. 4.7 — Writing a Conclusion (parallel guidance in the related Successful Writing text): apologizing for your opinion admits that even you find your argument unconvincing; effective writers stand by their thesis.*
+
+---
+
+**10. Imagine you are tasked with writing a paper about the historical development of 3D movie projectors. Which organizational method would best suit your essay?**
+- Order of importance.
+- Random order.
+- Chronological order.
+- Spatial order.
+
+**Answer: Chronological order.** — CONFIRMED CORRECT
+*Source: Readings, Hall & Wallace, Ch. 4.3 — Outlining (the three common organizing methods are chronological order, spatial order, and order of importance). Historical-development topics are organized by time sequence.*
+
+---
+
+**11. The body paragraphs should closely follow the path set forth by the body paragraph_____?**
+- Introduction.
+- Thesis statement.
+- Supporting details.
+- Topic sentences.
+
+**Answer: Thesis statement.** — CONFIRMED CORRECT
+*Source: Readings, Hall & Wallace, Ch. 4.5 — Writing Body Paragraphs: "If your thesis and outline give the reader a roadmap to your essay, then body paragraphs should closely follow that map."*
+
+---
+
+**12. Match the search method with its purpose: Course notes/textbooks / Google Scholar / ACPHS library / Web browsers (Google, Bing, Yahoo).**
+- 1-d, 2-c, 3-b, 4-a
+- 1-a, 2-b, 3-d, 4-c
+- 1-b, 2-c, 3-d, 4-a
+- 1-a, 2-b, 3-c, 4-d
+
+**Answer: 1-a, 2-b, 3-d, 4-c** — CONFIRMED CORRECT
+*Reasoning: Course notes/textbooks → general background/common knowledge (a); Google Scholar → best for scholarly resources (b); ACPHS library → contains the greatest number of accessible scholarly resources (d); Web browsers → can help narrow/broaden topic and provide keywords (c). Confirmed correct as given by user.*
+
+---
+
+**13. What are the three common sources of research ideas in the behavioral sciences, as discussed in the text?**
+- Surveys, interviews, focus groups.
+- Case studies, literature reviews, expert opinions.
+- Informal observations, practical problems, previous research.
+- Experimental studies, hypothesis testing, theoretical debates.
+
+**Answer: Informal observations, practical problems, previous research.** — CONFIRMED CORRECT
+*Source: Readings, Serdikoff, Ch. 3, Section 12 — Finding a Research Topic: "Three of the most common sources of inspiration are informal observations, practical problems, and previous research."*
+
+---
+
+**14. What type of scholarly article provides a statistical summary of previous research findings?**
+- Theoretical article.
+- Review article.
+- Empirical research report.
+- Meta-analysis.
+
+**Answer: Meta-analysis.** — CONFIRMED CORRECT
+*General research-methods knowledge (cross-checked against Serdikoff-aligned research methods sourcing): a meta-analysis statistically combines/summarizes quantitative findings across multiple prior studies, distinct from a review article (narrative summary, not necessarily statistical) or an empirical report (reports original data from one study).*
+
+---
+
 ## Unit 2 — running notes
 
 - Q2 is this unit's confirmed trap: for "best supporting sentence" questions, the correct answer restates/elaborates the topic sentence's actual claim rather than being the most statistic-sounding or concrete-sounding option. Watch for supporting-sentence options that are concrete but off-topic (e.g., about usage/frequency when the topic sentence is about effects/impact).
+- The "transitional word that indicates sequence or order → First" question has now appeared twice with the same option set and same confirmed answer (Q8/Q4 above).
