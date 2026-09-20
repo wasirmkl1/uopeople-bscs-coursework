@@ -37,6 +37,15 @@ directory.
 - **Main/initial discussion post:** due Sunday.
 - **Peer replies:** due Wednesday.
 
+## CS 1101-01 — instructor formatting rule (Hussam Al Khouja)
+
+Instructor Hussam sent an explicit class-wide note: **do not submit code as screenshots** in
+Discussion Forum posts or Assignments for CS 1101-01. Instead, copy and paste the actual code
+(input) and the program's output as plain text directly into the post/assignment. Apply this
+by default to every CS 1101-01 discussion post, peer reply, and assignment going forward —
+code blocks and their sample output should always be typed/pasted text, never an image or
+screenshot, even if a past unit's file included one.
+
 ## Notes for future reference
 
 - Update the "Current progress" unit number as units advance, and update/add course tables

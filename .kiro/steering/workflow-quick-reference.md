@@ -48,7 +48,16 @@ verification, n-gram/overlap checks, moderate research) — it's not a place whe
 reasoning effort meaningfully helps. The real cost lever is turn/context volume (points 1–4
 above), not the effort setting itself.
 
-## 6. Due-date offset (confirmed, both students)
+## 6. Create discussion post files only at final push time
+When drafting a Discussion Forum initial post (or a peer reply saved to a file), do not create
+the `.md` file in the repo while the content is still being reviewed/revised — present each
+draft directly in the chat response instead. Only create the actual `.md` file in the
+`Discussions` folder once the text is fully finalized and approved, at the same time it's
+being committed and pushed. This mirrors the existing `.docx`-timing rule in point 4 below
+(build/push last) — apply the same discipline to discussion-post markdown files, not just to
+Word documents.
+
+## 7. Due-date offset (confirmed, both students)
 Both students' assignment portals display due dates in their local timezone, which runs one
 calendar day ahead of UoPeople's own reference timezone. Always print **the displayed due
 date minus one day** on the title page (e.g., portal says "Sep 17, 2026" → title page says
