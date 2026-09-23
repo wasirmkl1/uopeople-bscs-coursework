@@ -196,6 +196,16 @@ tone, formatting, or citations come into play.
   what an intro-level student would plausibly know or that the course readings have actually
   covered, unless the student specifically asks for it. When unsure whether something is
   too advanced, ask.
+- **Real instructor feedback, ENGL 1102-01 Unit 2 Discussion (scored 100/100, but with a
+  refinement note):** even a fully-scoring argumentative/narrative discussion post can still
+  draw a tone note. The instructor called out overly conversational phrasing (e.g., a
+  rhetorical-question opener like "Ask five people...") and asked for longer sentences to be
+  tightened. Treat this as a standing check for ENGL discussion posts specifically (and
+  reasonably for other courses' discussion posts too): before presenting a draft, scan for
+  casual rhetorical-question openers and run-on sentences that could be split or trimmed to
+  read more consistently academic, even when the overall voice is otherwise meant to sound
+  like a genuine student (per the natural-voice rule above — this is about tightening
+  register, not eliminating personality or contractions).
 
 ## 3. Word Count Discipline
 **Scope: universal — applies to every written assignment and discussion post with a stated
