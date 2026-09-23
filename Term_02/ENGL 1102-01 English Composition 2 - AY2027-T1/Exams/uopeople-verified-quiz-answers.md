@@ -447,3 +447,114 @@ Source: Readings, Unit 3 — Oxbridge Essays "How to Identify Research Gaps" (po
 all answers matched first-pass reasoning from assigned readings, syllabus learning
 objectives, or (for the feedback/writing-tools questions not covered by assigned readings)
 general/web-sourced knowledge.
+
+## Unit 3 — GRADED QUIZ (15/15 confirmed correct)
+
+Eight questions on the graded quiz were repeats of already-logged Unit 3 self-quiz entries and
+were confirmed correct again with the same answers: writing-tools matching (1-c, 2-b, 3-a, 4-d),
+the literature-gap true/false (False), purpose of a research paper (original thesis supported by
+research), 3-D projectors organizational method (Chronological order), body paragraphs follow the
+(Thesis statement), evidence-types matching (1-d, 2-a, 3-b, 4-c), basic vs. applied research
+(basic = theory / applied = practical issues), and goals of science matching (1-b, 2-c, 3-a, 4-d).
+The seven new questions are logged below.
+
+**11. Which section of a paper typically introduces the gap statement and fills the gap?**
+- Discussion section.
+- Introduction section.
+- Conclusion section.
+- Results section.
+
+**Answer: Introduction section.** — CONFIRMED CORRECT
+*Source: Readings, Unit 3 — "Gap Statements – Write Like a Scientist" (Middlebury): "A gap statement is found in the Introduction section of a journal article or poster," and the gap "fill" appears in the last paragraph of that same introduction.*
+
+---
+
+**12. What is the purpose of critical analysis when identifying research gaps?**
+- To only summarise the articles.
+- To locate contradictions, limitations, or unexplored areas.
+- To verify the publication date of the sources.
+- To find a research gap in every article.
+
+**Answer: To locate contradictions, limitations, or unexplored areas.** — CONFIRMED CORRECT
+*Source: Readings, Unit 3 — Oxbridge Essays, "Critical Analysis" section: look for contradictions, limitations, or areas that have not been explored in depth.*
+
+---
+
+**13. State whether the statement is true or false: Chronological order is used to explain the steps in a process, spatial order helps readers visualize something, and order of importance is used to persuade or rank items.**
+- True
+- False
+
+**Answer: True** — CONFIRMED CORRECT
+*Source: Readings, Hall & Wallace Ch. 4.3 (Outlining) — verified verbatim against the "Order versus Purpose" table: Chronological Order → "to explain the steps in a process"; Spatial Order → "to help readers visualize something as you want them to see it"; Order of Importance → "to persuade or convince" / "to rank items by their importance, benefit, or significance."*
+
+---
+
+**14. A thesis statement is usually _________ long and appears toward the _________ of the introduction.**
+- One sentence; Middle.
+- One sentence; end
+- One sentence; beginning.
+- Two sentences; end
+
+**Answer: One sentence; end** — CONFIRMED CORRECT
+*Source: Readings, Hall & Wallace Ch. 4.2 — verified verbatim: "A thesis is one sentence long and appears toward the end of your introduction."*
+
+---
+
+**15. Sarah, a 5-year-old, is learning about animals. When she sees her dolphin for the first time, she calls it a 'fish' because it lives in water. Her teacher explains that dolphins are 'mammals', not fish. Sarah updates her understanding to include dolphins as mammals. What psychological process is Sarah demonstrating by adapting her mental framework to incorporate the new information about dolphins?**
+- Assimilation.
+- Conditioning.
+- Reinforcement.
+- Cognition.
+
+**Answer: Assimilation.** — CONFIRMED CORRECT
+***TRAP — important note for the final exam.*** *Under strict Piagetian theory this scenario is
+**accommodation** (Sarah CHANGES her schema because a dolphin doesn't fit "fish"), and
+accommodation is NOT among the options. Do not get pulled into arguing for the strict definition
+or picking "Cognition" as a hedge. This course's key uses the looser textbook phrasing where
+assimilation = "incorporating new information into existing mental frameworks," which matches the
+question stem's own wording ("adapting her mental framework to incorporate the new information").
+The dolphin-called-a-fish scenario is also a standard textbook illustration of assimilation.
+General rule confirmed here: when the strictly-correct term is absent from the options, pick the
+option the question's own phrasing echoes rather than treating the question as unanswerable.*
+
+---
+
+**16. Imagine you are assigned an essay on climate change, and you decide to use brainstorming and idea mapping to plan your work. After spending 30 minutes jotting down ideas and creating connections between concepts, you realize you have a clear direction for your essay. What is the key benefit of using these prewriting strategies?**
+- They eliminate the need for editing later.
+- They ensure perfect grammar in the first draft.
+- They make the assignment shorter and easier to write.
+- They save time by helping ideas develop more swiftly.
+
+**Answer: They save time by helping ideas develop more swiftly.** — CONFIRMED CORRECT
+*Source: Readings, Hall & Wallace Ch. 4.1 (Prewriting and Drafting). The other three options are each factually false about prewriting — it does not remove the need for editing, guarantee grammar, or shorten the assignment.*
+
+---
+
+**17. What is the model of scientific research in the behavioral sciences primarily focused on?**
+- The study of non-human animals in laboratory settings.
+- The development of new psychological therapies.
+- The application of research findings to real life situations.
+- Cyclical process where new research leads to new questions.
+
+**Answer: Cyclical process where new research leads to new questions.** — CONFIRMED CORRECT
+*Source: Readings, Serdikoff Ch. 1, Section 4 — "A Model of Scientific Research for the Behavioral Sciences": because the research literature is a primary source of new research questions, the process is a cycle — new research leads to new questions, which lead to new research.*
+
+---
+
+## Unit 3 — GRADED QUIZ running notes
+
+**Unit 3 status: FINISHED. Graded quiz scored 15/15.** Combined with the two self-quiz sets,
+17 unique Unit 3 questions are now logged, all confirmed correct.
+
+- **The one real trap in this unit is the Sarah/dolphin question (Q15 above).** The
+  strictly-correct Piagetian term (accommodation) is deliberately absent from the options.
+  Answer **Assimilation**.
+- **Near-trap on the 3-D movie projector question:** Hall & Wallace Ch. 4.3 uses a 3-D movie
+  projector as its example of *spatial* order ("describe a 3-D movie projector... to help readers
+  visualize the setting and scene"), but the quiz question asks about the **historical
+  development** of them, which is *chronological* order ("to explain the history of an event or a
+  topic"). Confirmed correct as Chronological order on both the self-quiz and the graded quiz —
+  don't let the projector wording pull toward spatial.
+- Unit 3 questions draw on Unit 1–2 material too (goals of science, basic vs. applied research,
+  thesis statements, organizational methods, evidence types, prewriting), not just Unit 3
+  readings. Expect the same for the Unit 6 graded quiz and the final exam.
