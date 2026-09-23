@@ -330,3 +330,120 @@ given across the whole unit — Q6 (functional relationship) — and it has been
 
 - Q2 is this unit's confirmed trap: for "best supporting sentence" questions, the correct answer restates/elaborates the topic sentence's actual claim rather than being the most statistic-sounding or concrete-sounding option. Watch for supporting-sentence options that are concrete but off-topic (e.g., about usage/frequency when the topic sentence is about effects/impact).
 - The "transitional word that indicates sequence or order → First" question has now appeared twice with the same option set and same confirmed answer (Q8/Q4 above).
+
+
+## Unit 3
+
+**1. What is more challenging when providing feedback?**
+- Lack of time for assignments.
+- Inability to use digital tools.
+- Lack of technical skills.
+- Balancing positivity and critique.
+
+**Answer: Balancing positivity and critique.** — CONFIRMED CORRECT
+*Source: Web-confirmed (standard feedback-pedagogy framing — balancing praise and critique is widely cited as the core difficulty of giving feedback; no assigned Unit 3 reading covers feedback-giving directly).*
+
+---
+
+**2. What is a benefit of using Google Docs for writing tasks?**
+- Focuses on individual writing projects only.
+- Provides advanced grammar checks.
+- Allows real time collaboration and editing.
+- Offers a distraction free interface.
+
+**Answer: Allows real time collaboration and editing.** — CONFIRMED CORRECT
+*Source: Web-confirmed — Google Docs' defining feature is simultaneous multi-user editing with instant sync.*
+
+---
+
+**3. Match the following research areas to their descriptions: Population/Sample / Research method / Data collection and analysis / Research variables or conditions.**
+- 1-c, 2-a, 3-d, 4-b
+- 1-d, 2-b, 3-a, 4-c
+- 1-c, 2-b, 3-a, 4-d
+- 1-c, 2-b, 3-d, 4-a
+
+**Answer: 1-c, 2-b, 3-d, 4-a** — CONFIRMED CORRECT
+*Reasoning: Population/Sample → "sample size or demographic not sufficiently examined" (c); Research method → "method used to gather/analyze data which might be underexplored" (b); Data collection and analysis → "the collection of data and the methods of analyzing it" (d); Research variables or conditions → "variables are conditions not yet studied" (a).
+Source: Readings, Unit 3 — Oxbridge Essays "How to Identify Research Gaps" (population, methodological, empirical/variable, and data-related gap types).*
+
+---
+
+**4. What is the primary purpose of writing a research paper?**
+- To summarise other people's opinions.
+- To present a narrative without analysis.
+- To develop an original thesis supported by research.
+- To explore topics without conclusions.
+
+**Answer: To develop an original thesis supported by research.** — CONFIRMED CORRECT
+*Source: Course syllabus, Learning Objectives — course aims to have students "formulate and substantiate arguments" and "write a complete research paper."*
+
+---
+
+**5. State whether the following statement is true or false: The research process helps students understand topics on a deeper level and strengthens their analytical skills.**
+- True.
+- False.
+
+**Answer: True.** — CONFIRMED CORRECT
+*Source: Course syllabus, Learning Objectives — aligns with CLO 8 ("examine and analyze texts for literature review and data") and the course's emphasis on analytical reasoning.*
+
+---
+
+**6. Which of the following is the primary goal of evidence synthesis?**
+- To aggregate findings from multiple studies into a comprehensive summary.
+- To identify ethical violations in research.
+- To assess the trustworthiness of individual studies.
+- To evaluate the sample size and methodology of studies.
+
+**Answer: To aggregate findings from multiple studies into a comprehensive summary.** — CONFIRMED CORRECT
+*Source: Readings, Unit 3 — WSU LibGuide "Conducting a Literature Review: Analyzing the Literature": evidence synthesis "involves systematically collecting, analyzing, and integrating evidence from multiple sources... to produce a comprehensive summary of the available evidence." (The other options describe critical appraisal, a distinct process, not synthesis.)*
+
+---
+
+**7. What type of research gap refers to the absence of adequate research methods or the need for new techniques?**
+- Methodological gaps.
+- Theoretical gaps.
+- Empirical gaps.
+- Practical gaps.
+
+**Answer: Methodological gaps.** — CONFIRMED CORRECT
+*Source: Readings, Unit 3 — Oxbridge Essays "How to Identify Research Gaps": "Methodological Gaps refer to deficiencies in the suitability or effectiveness of research methods employed in previous studies... when innovative approaches are needed to overcome methodological limitations."*
+
+---
+
+**8. Daniel works as a project manager in a tech company and has been tasked with improving the team's efficiency in delivering software projects. During the team meeting, his supervisor suggests conducting research to identify industry best practices and address ongoing challenges. Daniel wonders why conducting research is important in a professional setting. What is the primary reason professionals like Daniel conduct research in the workplace?**
+- To write long reports for academic purposes.
+- To share personal opinions with colleagues.
+- To avoid professional writing tasks.
+- To understand and adapt to challenges in their field.
+
+**Answer: To understand and adapt to challenges in their field.** — CONFIRMED CORRECT
+*Reasoning: Matches the scenario directly — the supervisor wants research to identify best practices and address ongoing challenges; the other options don't fit a professional-research context.*
+
+---
+
+**9. State whether the following statement is true or false: A gap in the literature refers to a topic that has already been extensively explored in the existing research.**
+- True.
+- False.
+
+**Answer: False.** — CONFIRMED CORRECT
+*Source: Readings, Unit 3 — "Gap Statements – Write Like a Scientist" (Middlebury): a gap is "something that remains to be done or learned" — the opposite of extensively explored.*
+
+---
+
+**10. Match the writing tool with its primary features: Grammarly / Google Docs / Focus Writer / Scrivener.**
+- 1-c, 2-d, 3-a, 4-b
+- 1-c, 2-a, 3-d, 4-b
+- 1-d, 2-b, 3-c, 4-a
+- 1-c, 2-b, 3-a, 4-d
+
+**Answer: 1-c, 2-b, 3-a, 4-d** — CONFIRMED CORRECT
+*Reasoning: Grammarly → advanced grammar and writing suggestions (c); Google Docs → collaborative writing, real-time editing (b); Focus Writer → distraction-free environment (a); Scrivener → organizing long-form projects like books (d).*
+
+---
+
+## Unit 3 — running notes
+
+**Unit 3 status: 10/10 confirmed correct across both self-quiz sets.** No traps identified —
+all answers matched first-pass reasoning from assigned readings, syllabus learning
+objectives, or (for the feedback/writing-tools questions not covered by assigned readings)
+general/web-sourced knowledge.

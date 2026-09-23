@@ -1,5 +1,13 @@
 # Quiz Answer Bank Location
 
+**Quiz answer bank content may be freely shared/mirrored between this repo and the
+household's other UoPeople repo (`uopeople-bsba-coursework`)** — this is an explicit
+exception to the assignment/discussion no-cross-referencing policy found in
+`assignment-writing-rules.md` and the student-profile steering, which exists for
+academic-integrity reasons around graded original writing. Quiz questions and their verified
+answers are reference material, not graded submissions, so no such concern applies here — the
+user has confirmed sharing this content between repos is fine, with no restrictions.
+
 Verified quiz answer banks live per-course, out of `.kiro/steering/`, at:
 
 - **UNIV 1002-01:** `Term_01/UNIV 1002-01 Online Education Strategies for Non-Native English Speakers - AY2026-T5/Exams/uopeople-verified-quiz-answers.md`
