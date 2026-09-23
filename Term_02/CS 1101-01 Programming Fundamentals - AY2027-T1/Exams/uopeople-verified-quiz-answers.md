@@ -42,3 +42,20 @@ All 5/5 confirmed correct. Key reasoning:
 - Short-circuit evaluation: `and`/`or` return one of the actual operands, not always `True`/`False` (e.g., `7 and 0` → `0`).
 - `not (num >= 10 and num <= 20)` is the correct De Morgan's-style negation of an inclusive range check.
 - Nested `if` statements evaluate outer condition first, then inner condition, printing based on the deepest matching branch.
+
+
+## Attempt 3 — Unit 3 self-quiz: loops (5 q)
+
+| # | Question (topic) | Answer given | Result |
+|---|---|---|---|
+| 1 | A while loop checks its condition after executing the body. (True/False) | False | CONFIRMED CORRECT |
+| 2 | Which keyword is used in a Python for loop to iterate over a sequence? (to/from/in/over) | in | CONFIRMED CORRECT |
+| 3 | How many times will the loop body execute for `for x in [3,1,4,1,5]:`? | 5 times | CONFIRMED CORRECT |
+| 4 | Where is the condition checked in a while loop? (Before each iteration / Only when break appears / Only once at start / After each iteration ends) | Before each iteration begins | CONFIRMED CORRECT |
+| 5 | Which scenario best suits a while loop? (fixed-length string / fixed numeric range / fixed-size list / read input until 'quit') | Read user input until the user types 'quit' | CONFIRMED CORRECT |
+
+All 5/5 confirmed correct. Key reasoning:
+- `while` loops are pre-check (condition tested **before** each iteration, including the first) — never post-check in Python (there is no do-while).
+- `for x in sequence:` — `in` is a syntactic component of the for-statement, unrelated to the membership-test `in` operator.
+- `for` loops over a list execute once per element, counting duplicates (5 elements → 5 iterations regardless of repeated values).
+- `while` is the right choice whenever the number of iterations is unknown in advance (e.g., sentinel-controlled input loops); `for` suits fixed-size/known-length sequences and ranges.
