@@ -558,3 +558,103 @@ option the question's own phrasing echoes rather than treating the question as u
 - Unit 3 questions draw on Unit 1–2 material too (goals of science, basic vs. applied research,
   thesis statements, organizational methods, evidence types, prewriting), not just Unit 3
   readings. Expect the same for the Unit 6 graded quiz and the final exam.
+
+## Unit 3 — GRADED QUIZ, second set (15/15 confirmed correct)
+
+A second graded-quiz set was served from the rotating pool. Nine questions were repeats of
+already-logged entries, all confirmed correct again with the same answers: Google Docs benefit
+(real time collaboration and editing), writing-tools matching (1-c, 2-b, 3-a, 4-d), least-associated
+prewriting activity (Refining sentence structure through editing), goals of science matching
+(1-b, 2-c, 3-a, 4-d), the Sarah/dolphin question (**Assimilation** — see the trap note above),
+meta-analysis, thesis statement length/position (One sentence; end), Jennifer's supporting sentence
+(effects are complex and widespread — see the Unit 2 trap note), and search-method matching
+(1-a, 2-b, 3-d, 4-c). The six new questions are logged below.
+
+**18. What is the main benefit of creating a schedule for a research paper?**
+- Simplifies the use of primary sources.
+- Avoids the need for evaluating sources.
+- Ensures that the research question is broad.
+- Prevents being overwhelmed as the deadline approaches.
+
+**Answer: Prevents being overwhelmed as the deadline approaches.** — CONFIRMED CORRECT
+*Source: Verified near-verbatim in the research-paper process material (Successful College Composition / Advanced ESL research chapter, "The Process of Writing a Research Paper"): "Creating a schedule is a good way to ensure that you do not end up being overwhelmed by all the work you have to do as the deadline approaches." Note the distractors are each things a schedule does NOT do — and a good research question should be narrow, not broad.*
+
+---
+
+**19. According to the SIFT test, when you trace claims, quotes and media back to the original context, what are you trying to restore?**
+- Historical Context.
+- Original meaning.
+- Source credibility.
+- Proper citation.
+
+**Answer: Original meaning.** — CONFIRMED CORRECT
+*Source: Web-sourced — SIFT (Mike Caulfield's four moves: Stop, Investigate the source, Find better coverage, Trace claims to the original context) does not appear in the Unit 3 reading list available in this repo, so this was resolved from external library guides. The "T" move exists because online content gets stripped of context through misleading re-reporting, edited audio/video, or images with inaccurate captions; tracing it back re-contextualizes it.*
+***Trap note: "Historical Context" is the distractor.** The concern is the claim's OWN original context/meaning, not historical background. If SIFT reappears on the final, remember the answer is about restoring what the claim originally meant.*
+
+---
+
+**20. _____ Sources such as surveys or historical documents provide firsthand information.**
+- Primary.
+- Secondary.
+- Tertiary.
+- Fictional.
+
+**Answer: Primary.** — CONFIRMED CORRECT
+*Source: Standard source-typology framing (cross-checked against multiple OER information-literacy texts): primary = firsthand information in its original form, not yet interpreted or analyzed; survey/poll data and government or historical documents are standard examples. Secondary sources restate/interpret primary ones; tertiary sources compile and index.*
+
+---
+
+**21. What does basic research aim to achieve?**
+- Improve real-world applications.
+- Develop theories and test them.
+- Solve practical issues.
+- Study social phenomena.
+
+**Answer: Develop theories and test them.** — CONFIRMED CORRECT
+*Source: Consistent with the already-confirmed basic-vs-applied entry in Unit 1 (basic = theory, applied = practical issues), cross-checked against standard basic/applied research sourcing: basic research seeks to understand a phenomenon in its own right and to build/test valid theories. Note TWO distractors ("Improve real-world applications" and "Solve practical issues") both describe APPLIED research, and "Study social phenomena" names a subject area rather than an aim.*
+
+---
+
+**22. A research team is studying the effects of a new cognitive therapy on improving memory in elderly patients. They are not initially concerned with any immediate practical application but instead aim to gain a deeper understanding of the mechanisms behind memory in aging. What type of scientific research are they conducting?**
+- Basic research.
+- Applied Research.
+- Experimental Research.
+- Observational Research.
+
+**Answer: Basic research.** — CONFIRMED CORRECT
+*Reasoning: the stem explicitly rules out immediate practical application and states the aim is deeper understanding of mechanisms — the definition of basic research.*
+***Trap note:** the clinical/therapy framing makes "Applied Research" tempting, and the study is technically also an experiment ("Experimental Research"). The question asks about the research's AIM, not its method or setting. Watch for this same structure on the final — a therapy/clinical scenario that is nonetheless basic research.*
+
+---
+
+**23. You are beginning your literature review for a research project. You are unfamiliar with the topic. What is a good first step to gather background information and keywords?**
+- Begin with course notes, textbooks, or Wikipedia for general background information.
+- Immediately searched for peer reviewed articles in academic journals.
+- Skip preliminary research and go directly to Google Scholar for scholarly articles.
+- Use Google to find the most popular websites on the topic.
+
+**Answer: Begin with course notes, textbooks, or Wikipedia for general background information.** — CONFIRMED CORRECT
+*Source: Readings — the ACPHS "Conducting a Literature Review: Finding Sources" guide (assigned as the Unit 2 Additional Resource, and the source behind the search-method matching question). It advises starting with course notes and textbooks for background and keywords, and names Wikipedia as an "unlikely ally" useful in the pre-research stage for references, background, and keywords — while stressing it cannot be cited as an academic source itself. Jumping straight to peer-reviewed articles or Google Scholar before you have keywords is what the guide advises against.*
+*Cross-reference: this pairs with the confirmed search-method matching answer (course notes/textbooks → general background and common knowledge).*
+
+---
+
+## Unit 3 — overall running notes
+
+**Unit 3 status: FINISHED. Two graded-quiz sets, both scored 15/15.** 23 unique Unit 3 questions
+are now logged, all confirmed correct.
+
+- **Graded quizzes for this course draw from a rotating pool with heavy repetition.** The second
+  set repeated 9 of 15 questions from the first set / self-quizzes. Keep logging every variant —
+  the bank is doing real work at this point.
+- **Confirmed traps to carry into the Unit 6 quiz and the final exam:**
+  1. **Sarah/dolphin → Assimilation** (strictly accommodation, but that option is never offered).
+  2. **Jennifer's supporting sentence → the "complex and widespread" option**, not the four-hours
+     statistic (concrete but off-topic).
+  3. **SIFT "trace" → Original meaning**, not "Historical Context."
+  4. **Therapy/memory scenario → Basic research**, not Applied or Experimental — judge by the
+     stated AIM, not the clinical setting or the method.
+  5. **3-D movie projectors → Chronological order** when the question asks about historical
+     development, even though the textbook uses that same object as its spatial-order example.
+- Unit 3 quizzes pull heavily from Unit 1–2 material (goals of science, basic vs. applied research,
+  thesis statements, prewriting, evidence types, source searching), not just Unit 3 readings.
