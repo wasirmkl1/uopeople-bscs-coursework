@@ -59,3 +59,41 @@ All 5/5 confirmed correct. Key reasoning:
 - `for x in sequence:` — `in` is a syntactic component of the for-statement, unrelated to the membership-test `in` operator.
 - `for` loops over a list execute once per element, counting duplicates (5 elements → 5 iterations regardless of repeated values).
 - `while` is the right choice whenever the number of iterations is unknown in advance (e.g., sentinel-controlled input loops); `for` suits fixed-size/known-length sequences and ranges.
+
+
+
+## Attempt 4 — Unit 3 GRADED quiz: loops, loop control & conditionals review (15 q)
+
+**Score: 15/15 — all CONFIRMED CORRECT by user.**
+
+| # | Question (topic) | Answer given | Result |
+|---|---|---|---|
+| 1 | Using `continue` in a loop terminates the loop entirely. (True/False) | False | CONFIRMED CORRECT |
+| 2 | In nested loops, the inner loop runs exactly once for each outer loop iteration. (options listed False/True — reversed order) | False | CONFIRMED CORRECT |
+| 3 | While loop quality-check; stop loop immediately and continue with rest of program (skip/break/continue/pass) | break | CONFIRMED CORRECT |
+| 4 | Scanning product IDs; stop as soon as target found (pass/next/break/continue) | break | CONFIRMED CORRECT |
+| 5 | Method to access both keys and values iterating a dict (values()/items()/pairs()/keys()) | items() | CONFIRMED CORRECT |
+| 6 | ____ is the best way to avoid too much nesting | combining conditions with and/or | CONFIRMED CORRECT |
+| 7 | Where would you use if-else over if-elif-else? | When there are only two possible outcomes | CONFIRMED CORRECT |
+| 8 | Why is indentation critical in Python conditionals? | Because indentation defines code blocks instead of braces | CONFIRMED CORRECT |
+| 9 | Rewrite nested `if x > 10: if x < 20:` efficiently | `if 10 < x < 20: print("In range")` | CONFIRMED CORRECT |
+| 10 | Python executes if-elif-else from ____ | top to bottom | CONFIRMED CORRECT |
+| 11 | The operator `%=` is a type of assignment operator. (True/False) | True | CONFIRMED CORRECT |
+| 12 | Which function displays output to the screen? (read()/print()/open()/input()) | print() | CONFIRMED CORRECT |
+| 13 | The symbol `#` in Python is used for ____ | Comments | CONFIRMED CORRECT |
+| 14 | The result of `15 % 4` is ____ | 3 | CONFIRMED CORRECT |
+| 15 | To convert input into an integer, we use ____ | int() | CONFIRMED CORRECT |
+
+### Key reasoning / reusable notes
+
+- **`continue` vs `break`:** `continue` skips only the remainder of the *current* iteration and proceeds to the next; the loop does NOT exit. `break` exits the nearest enclosing loop immediately and moves control past it. Both Q3 and Q4 are `break` — "stop immediately / exit as soon as found" is always `break`.
+- **`pass` is a null statement** — it does nothing at all and never affects loop control. `skip` and `next` are not Python loop-control statements (distractors).
+- **Nested loops (Q2 trap):** the inner loop completes its *full* range of iterations on every single outer iteration — total inner-body executions = outer × inner. Verified by running outer `range(3)` × inner `range(4)` → 12 executions, not 3. Note the option order was reversed (False listed first) — read option text, don't click by position.
+- **Chained comparison (Q9):** `10 < x < 20` is the exact equivalent of `x > 10 and x < 20`. Verified over x in 0..30. Distractors diverge: `(x >= 10 and x >= 20)` is False at x=15 (should be True); `(x > 10 or x < 20)` is True at x=5 (should be False).
+- **`items()`** yields key-value pairs for `for k, v in d.items():`. `keys()`/`values()` give one side only; `pairs()` does not exist.
+- **Reducing nesting:** combine conditions with `and`/`or` (or use chained comparisons) to flatten nested `if` blocks.
+- **`if-else` vs `if-elif-else`:** two outcomes → `if-else`; three or more → `if-elif-else`. Evaluation is strictly top-to-bottom, first true branch wins, rest skipped.
+- **Indentation** is syntactically meaningful in Python — it delimits blocks where other languages use braces. It is not stylistic and has no runtime-speed effect.
+- **Compound assignment operators** include `%=` (modulo-and-assign), alongside `+=`, `-=`, `*=`, `/=` — same family as the `+=` confirmed in Attempt 1.
+- **Basic I/O & syntax:** `print()` outputs, `input()` reads (always returns a string), `int(input())` converts input to integer, `#` begins a comment.
+- **`15 % 4 = 3`** (15 = 4×3 + 3). Verified by execution.
