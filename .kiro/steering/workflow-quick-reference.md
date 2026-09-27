@@ -48,14 +48,32 @@ verification, n-gram/overlap checks, moderate research) — it's not a place whe
 reasoning effort meaningfully helps. The real cost lever is turn/context volume (points 1–4
 above), not the effort setting itself.
 
-## 6. Create discussion post files only at final push time
-When drafting a Discussion Forum initial post (or a peer reply saved to a file), do not create
-the `.md` file in the repo while the content is still being reviewed/revised — present each
-draft directly in the chat response instead. Only create the actual `.md` file in the
-`Discussions` folder once the text is fully finalized and approved, at the same time it's
-being committed and pushed. This mirrors the existing `.docx`-timing rule in point 4 below
-(build/push last) — apply the same discipline to discussion-post markdown files, not just to
-Word documents.
+## 6. HARD RULE — never create the file or touch git until the user says the content is final
+This rule was violated once already in this project: a Unit 4 discussion draft was written
+straight into a repo file, committed, pushed to a new branch, and opened as a PR in the same
+turn the draft was first produced — before the user had seen or approved a single word of it.
+The PR had to be closed and the branch deleted afterward. Treat this as a hard gate, not a
+preference:
+
+- **Step 1 — draft only.** The very first version of any discussion post, peer reply, or
+  written assignment is pasted directly into the chat response as plain text/markdown. No
+  file is created on disk for it. No `git` command of any kind (`add`, `commit`, `push`,
+  branch creation, `gh api` PR creation) runs at this stage, regardless of how confident the
+  draft feels or how much verification (word count, citations, code testing) has already
+  been done on it.
+- **Step 2 — revise in chat.** Any requested changes are applied to the in-chat draft and
+  re-pasted in full. Still no file, still no git.
+- **Step 3 — explicit go-ahead required.** Only create the `.md`/`.docx` file and run `git`
+  commands after the user gives an explicit, unambiguous instruction to do so (e.g., "push
+  this," "commit it," "make the file," "this is final, go ahead"). Finishing a checklist,
+  passing verification, or the assistant's own judgement that the draft is "ready" does
+  **not** count as that instruction — only the user's own words do. If it's ambiguous
+  whether the user meant "this looks good" vs. "go ahead and push it," ask which one before
+  touching a file or git.
+- This applies to every deliverable type covered elsewhere in this file: discussion posts,
+  peer replies, and standalone written assignments (`.docx`) alike. It supersedes the
+  softer "only at final push time" phrasing that used to be here — that phrasing was
+  demonstrably not strict enough to prevent the violation described above.
 
 ## 7. Due-date offset (confirmed, both students)
 Both students' assignment portals display due dates in their local timezone, which runs one
