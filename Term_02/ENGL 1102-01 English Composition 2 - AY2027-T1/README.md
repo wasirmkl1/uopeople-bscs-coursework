@@ -4,7 +4,7 @@
 - **Instructor:** Aparna Rajith (aparna.rajith@uopeople.edu)
 - **Term:** Term 2, AY2027-T1
 - **Duration:** 9 units, 1 week per unit
-- **Current progress:** Unit 1
+- **Current progress:** Unit 4
 
 ## About this course
 
