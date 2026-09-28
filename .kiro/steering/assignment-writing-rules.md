@@ -228,6 +228,10 @@ word range.**
   ranges (e.g., 350–500 words for a discussion vs. 400–550 for an essay) — always recheck
   the specific range stated in that assignment's instructions rather than reusing a number
   from a different assignment type.
+- **Confirmed limit: ENGL 1102-01 Unit 4 assignment (problem statement, objectives,
+  research questions) has a 750-word maximum.** Count the body, including the repeated
+  paper title and section headings, and excluding the title page and references. Keep it at
+  720–730 or lower to hold the required buffer.
 
 ## 4. SMART Goals — what's actually graded
 **Scope: narrow — applies only to assignments that specifically ask the student to write
