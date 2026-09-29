@@ -658,3 +658,136 @@ are now logged, all confirmed correct.
      development, even though the textbook uses that same object as its spatial-order example.
 - Unit 3 quizzes pull heavily from Unit 1–2 material (goals of science, basic vs. applied research,
   thesis statements, prewriting, evidence types, source searching), not just Unit 3 readings.
+
+---
+
+## Unit 4
+
+Two self-quiz sets (5 questions each). All 10 answers CONFIRMED CORRECT. *Sourcing note: these
+were answered from standard definitions (SMART goals, goals of science, Bloom's revised taxonomy,
+basic vs. applied research) and the earlier confirmed entries in this bank. The Unit 4 readings
+were not re-checked line by line.*
+
+**1. State whether the following statement is true or false. SMART goals are designed to be vague and general to provide flexibility.**
+- True
+- False
+
+**Answer: False** — CONFIRMED CORRECT
+*SMART goals are Specific, the opposite of vague and general.*
+
+---
+
+**2. Match the goal of science with its descriptions: Describe / Predict / Explain / Control.**
+
+Descriptions: a. Determining the causes of behaviour. b. Applying knowledge to influence outcomes. c. Observing and documenting phenomena. d. Using knowledge to forecast behaviour or events.
+
+- 1-c, 2-d, 3-a, 4-b
+- 1-c, 2-d, 3-b, 4-a
+- 1-c, 2-b, 3-d, 4-a
+- 1-c, 2-a, 3-b, 4-d
+
+**Answer: 1-c, 2-d, 3-a, 4-b** — CONFIRMED CORRECT
+*Describe = observing/documenting, Predict = forecast, Explain = causes, Control = apply knowledge to influence outcomes.*
+***Trap note:** this is a DIFFERENT letter ordering from the Unit 1 goals-of-science matching question (answer 1-b, 2-c, 3-a, 4-d there). The string "1-c, 2-d, 3-a, 4-b" is a wrong distractor in the Unit 1 version but the correct answer here. Always match by the description text, never by a remembered answer string.*
+
+---
+
+**3. State whether the following statement is true or false: It is not always mandatory that the problem statement in a dissertation research study should be supported by current research-based evidence and statistics.**
+- False
+- True
+
+**Answer: False** — CONFIRMED CORRECT
+*A problem statement must be backed by current research-based evidence and statistics. Watch the "not always mandatory" double-negative wording.*
+
+---
+
+**4. Which question would be most appropriate for ensuring a goal is "achievable"?**
+- Do I have the resources and capabilities to achieve the goal?
+- How do I know if I have reached my goal?
+- When do I want to achieve my goal?
+- Who is involved in this goal?
+
+**Answer: Do I have the resources and capabilities to achieve the goal?** — CONFIRMED CORRECT
+*The other options map to Measurable ("How do I know…"), Timely ("When…") and Specific ("Who…").*
+
+---
+
+**5. Match the following components of SMART goals with their correct descriptions: Specific / Measurable / Achievable / Realistic / Timely.**
+
+Descriptions: a. Can you achieve the goal with available resources? b. Is the goal well defined and clear? c. Can the goal be quantified or measured? d. Does the goal have a set deadline? e. Is the goal realistic given the available time and resources?
+
+- 1-b, 2-a, 3-c, 4-e, 5-d
+- 1-b, 2-c, 3-a, 4-e, 5-d
+- 1-b, 2-e, 3-d, 4-a, 5-c
+- 1-b, 2-d, 3-c, 4-e, 5-d
+
+**Answer: 1-b, 2-c, 3-a, 4-e, 5-d** — CONFIRMED CORRECT
+*Note: this course's version uses "Realistic" for the R (not "Relevant"), and "Achievable" and "Realistic" are both about resources. Achievable = "can you achieve it with available resources"; Realistic = "realistic given available time and resources".*
+
+---
+
+**6. State whether the following statement is true or false: The primary goal of scientific research is to explain behaviour without focusing on practical applications.**
+- True
+- False
+
+**Answer: False** — CONFIRMED CORRECT
+*Science has four goals (describe, predict, explain, control), and control is about practical application.*
+
+---
+
+**7. You are setting a fitness goal to lose weight. You decide to aim for losing one pound of body fat per week, with a target of losing four pounds by the end of the month. This goal is an example of which part of SMART goal setting?**
+- Achievable.
+- Timely.
+- Specific.
+- Measurable.
+
+**Answer: Measurable.** — CONFIRMED CORRECT
+*The numbers (1 lb/week, 4 lb total) make progress quantifiable.*
+***Trap note:** "by the end of the month" makes Timely tempting, and a modest target makes Achievable tempting. The quiz key goes with the quantified target, so the answer is Measurable.*
+
+---
+
+**8. What does the "goal of control" in science aim to achieve?**
+- Predicting relationships between variables.
+- Determining the ethical implications of behaviour.
+- Observing behaviours in their natural settings.
+- Bringing about changes in subject matter using knowledge of functional relationships.
+
+**Answer: Bringing about changes in subject matter using knowledge of functional relationships.** — CONFIRMED CORRECT
+*Consistent with Serdikoff, Ch. 1, Section 3 (Goals of Science). The distractors describe Predict and Describe.*
+
+---
+
+**9. Which of the following best describes the "create" level of Bloom's revised Taxonomy?**
+- Forming a new, coherent structure by combining elements.
+- Breaking down information into parts and analysing relationships.
+- Remembering and recalling previously learned information.
+- Using information in the new situation to solve a problem.
+
+**Answer: Forming a new, coherent structure by combining elements.** — CONFIRMED CORRECT
+*The distractors describe Analyze, Remember and Apply.*
+
+---
+
+**10. Which of the following is an example of basic research?**
+- Understanding sex differences in talkativeness.
+- Studying the effects of cell phone use on driving safety.
+- Enacting laws to reduce distracted driving.
+- Investigating how different doses of marijuana affect pain reduction.
+
+**Answer: Understanding sex differences in talkativeness.** — CONFIRMED CORRECT
+*Basic research seeks knowledge for its own sake. The cell phone/driving and marijuana/pain studies are applied research, and enacting laws is not research at all. These are the standard examples from the research-methods textbook.*
+
+---
+
+## Unit 4 — running notes
+
+- **Self-quizzes: 2 sets, 10/10 confirmed correct.**
+- New Unit 4 topics: SMART goals (this course uses **Realistic** for the R), Bloom's revised
+  taxonomy, and dissertation problem statements. Unit 1 material (goals of science, basic vs.
+  applied research) keeps coming back.
+- **Traps to carry forward:**
+  1. **Goals-of-science matching comes with different letter orderings.** Match by the description
+     text, not a remembered answer string (see Q2 vs. Unit 1 Q2).
+  2. **Weight-loss goal with numbers → Measurable**, even though a deadline is also mentioned.
+  3. **"Not always mandatory" problem-statement evidence → False.** Watch the double negative.
