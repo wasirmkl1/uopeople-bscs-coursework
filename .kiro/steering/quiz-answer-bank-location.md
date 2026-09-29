@@ -13,6 +13,7 @@ Verified quiz answer banks live per-course, out of `.kiro/steering/`, at:
 - **UNIV 1002-01:** `Term_01/UNIV 1002-01 Online Education Strategies for Non-Native English Speakers - AY2026-T5/Exams/uopeople-verified-quiz-answers.md`
 - **CS 1111-01:** `Term_01/CS 1111-01 Introduction to Computer Science - AY2026-T5/Exams/uopeople-verified-quiz-answers.md`
 - **ENGL 1102-01:** `Term_02/ENGL 1102-01 English Composition 2 - AY2027-T1/Exams/uopeople-verified-quiz-answers.md`
+- **CS 1101-01:** `Term_02/CS 1101-01 Programming Fundamentals - AY2027-T1/Exams/uopeople-verified-quiz-answers.md`
 
 **When the user sends quiz questions for any of these courses, read that course's file first** before answering — it contains confirmed correct/incorrect answers from real graded/self-quiz attempts, plus trap notes for tricky/absolute-wording questions. Treat entries marked CONFIRMED CORRECT as ground truth; treat entries marked UNVERIFIED/REASONED GUESS as inferences that still need confirmation. If a new question doesn't match an existing entry (different wording, different image, different option set), it must be worked from scratch — do not assume a similar-sounding past question applies.
 

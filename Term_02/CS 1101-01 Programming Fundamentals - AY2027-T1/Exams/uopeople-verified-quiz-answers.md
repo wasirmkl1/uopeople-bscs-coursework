@@ -97,3 +97,24 @@ All 5/5 confirmed correct. Key reasoning:
 - **Compound assignment operators** include `%=` (modulo-and-assign), alongside `+=`, `-=`, `*=`, `/=` — same family as the `+=` confirmed in Attempt 1.
 - **Basic I/O & syntax:** `print()` outputs, `input()` reads (always returns a string), `int(input())` converts input to integer, `#` begins a comment.
 - **`15 % 4 = 3`** (15 = 4×3 + 3). Verified by execution.
+
+
+## Attempt 5 — Unit 4 self-quiz: functions, scope, lambda, *args (5 q)
+
+**Score: 5/5 — all CONFIRMED CORRECT by user.**
+
+| # | Question (topic) | Answer given | Result |
+|---|---|---|---|
+| 1 | Output of global `x = 50`, `outer()` sets `x = 20`, nested `inner()` sets `x = 10` and prints; then `outer` prints, then global print (10 20 50 / 50 20 10 / 10 10 10 / 20 20 20) | 10 20 50 | CONFIRMED CORRECT |
+| 2 | What happens if a function has no return statement? (raises error / prints automatically / returns 0 / returns None) | It returns None | CONFIRMED CORRECT |
+| 3 | Output of `x = lambda a, b: a + b; print(x(2, 3))` (5 / 23 / a + b / Error) | 5 | CONFIRMED CORRECT |
+| 4 | Which best describes "scope"? (range of values / part of program where a variable is accessible / data type / number of uses) | The part of a program where a variable is accessible | CONFIRMED CORRECT |
+| 5 | Special symbol for variable-length arguments in Python functions (# / & / * / %) | * | CONFIRMED CORRECT |
+
+### Key reasoning / reusable notes
+
+- **Variable shadowing (Q1):** each assignment inside a function creates a new *local* name, so nothing changes the outer variables unless `global`/`nonlocal` is used. Prints happen innermost first: `10` (inner), `20` (outer), `50` (global). Verified by execution.
+- **LEGB rule:** name lookup order is Local → Enclosing → Global → Built-in.
+- **No `return`** → function implicitly returns `None` (verified: `def f(): pass; print(f())` → `None`). Not `0`, not an error.
+- **`lambda`** creates an anonymous single-expression function; `x(2, 3)` evaluates `2 + 3` → `5` (numeric addition, not string concatenation `"23"`).
+- **`*args`** collects extra positional arguments into a tuple; **`**kwargs`** collects extra keyword arguments into a dict. `#` = comment, `%` = modulo, `&` = bitwise AND (distractors).
